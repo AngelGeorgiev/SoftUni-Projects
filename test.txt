@@ -2,3 +2,5 @@ test
 test bash
 test bash 2
 test tortoise
+
+test commit through git Bash
