@@ -1,2 +1,3 @@
 test
 test bash
+test bash 2
